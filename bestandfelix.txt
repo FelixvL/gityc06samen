@@ -2,3 +2,8 @@ Mijn eerste regel // Felix
 Tweede regel // Felix
 Derde regel // Felix
 Vierde regel //Felix
+
+VI
+
+2 modus   insert
+			command
